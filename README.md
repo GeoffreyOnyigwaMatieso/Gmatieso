@@ -10,9 +10,6 @@ I'm Geoffrey Matieso, a Mobile Applications Developer based in Eldoret, Kenya.
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Proteus-informational?style=flat&logo=proteus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Autodesk-informational?style=flat&logo=Autodesk&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kicad-informational?style=flat&logo=KiCadEDA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=IntellijIDEA&logoColor=white&color=2bbc8a)
 <br>
 
