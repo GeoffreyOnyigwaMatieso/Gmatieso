@@ -1,9 +1,9 @@
 <img src="https://github.com/JoelKanyi/JoelKanyi/blob/master/Digital__Design_110-512.png" width="100"/>
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-I'm Geoffrey Matieso, a Mobile Applications Developer based in Eldoret, Kenya.
+I'm Geoffrey Matieso, a Mobile Applications Developer  and Technical IT support based in  Eldoret, Kenya.
 
-<p>To talk more you can dm me on twitter <a href=https://twitter.com/Gmatieso>@Gmatieso</a> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>Geoffrey Matieso</a></p>
+<p>To talk more you can dm me on twitter <a href=https://twitter.com/Gmatieso>@Gmatieso</a> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>GeoffreyMatieso</a></p>
 
 ## 🔧Languages and tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
@@ -11,8 +11,10 @@ I'm Geoffrey Matieso, a Mobile Applications Developer based in Eldoret, Kenya.
 ![](https://img.shields.io/badge/Tools-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=IntellijIDEA&logoColor=white&color=2bbc8a)
-<br>
 
+
+<br>
+## &#x1f4c8; GitHub Stats
 <center>
   <table>
     <tr>
@@ -21,3 +23,6 @@ I'm Geoffrey Matieso, a Mobile Applications Developer based in Eldoret, Kenya.
     </tr>   
   </table>
 </center>
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
+<!-- GITHUB ACTIVITY GRAPH -->
+![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gmatieso&theme=react-dark)
