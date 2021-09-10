@@ -1,6 +1,6 @@
 <img src="https://github.com/Gmatieso/Gmatieso/blob/master/Digital__Design_110-512.png" width="100"/>
 
-Hi there 👋 I'm Joel Kanyi, a Mobile Applications Developer based in Bungoma, Kenya.
+Hi there 👋 I'm Geoffrey Matieso, a Mobile Applications Developer based in Eldoret, Kenya.
 
 <br>
 
