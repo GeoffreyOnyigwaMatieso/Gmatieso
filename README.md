@@ -23,3 +23,5 @@ I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified Tech
     </tr>   
   </table>
 </center>
+
+![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chemutaiselim&theme=react-dark)
