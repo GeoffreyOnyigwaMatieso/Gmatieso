@@ -2,13 +2,13 @@
 
 Hi there 👋 I'm Geoffrey Matieso, a Mobile Applications Developer based in Eldoret, Kenya.
 
- <title> Life so far... </title>
+ <h1> Life so far... </h1>
  <p>
-Breathing since 1994
-Started studying CS in 2014
-Got Bachelors in 2017
-Started working at IBM in 2018
-Got Masters with honours in 2019
+Breathing since 1994 </br>
+Started studying CS in 2014 </br>
+Got Bachelors in 2017 </br>
+Started working at IBM in 2018 </br>
+Got Masters with honours in 2019 </br>
  </p>
 
  Passionate about...
