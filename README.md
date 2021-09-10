@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="https://github.com/Gmatieso/Gmatieso/blob/master/Digital__Design_110-512.png" width="100"/>
 
-<!--
-**Gmatieso/Gmatieso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I'm Joel Kanyi, a Mobile Applications Developer based in Bungoma, Kenya.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Gmatieso&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmatieso&hide=html&layout=compact&theme=dark" /></td>      
+    </tr>   
+  </table>
+</center>
+
