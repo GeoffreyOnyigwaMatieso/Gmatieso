@@ -23,8 +23,7 @@ I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified Tech
     </tr>   
   </table>
 </center>
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
-<!-- GITHUB ACTIVITY GRAPH -->
 ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chemutaiselim&theme=react-dark)
+
 
 
