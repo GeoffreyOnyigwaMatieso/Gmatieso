@@ -34,8 +34,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=JoelKanyi&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelKanyi&hide=html&layout=compact&theme=dark" /></td>      
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Gmatieso&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmatieso&hide=html&layout=compact&theme=dark" /></td>      
     </tr>   
   </table>
 </center>
