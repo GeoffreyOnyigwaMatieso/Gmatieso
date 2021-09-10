@@ -1,7 +1,19 @@
 <img src="https://github.com/JoelKanyi/JoelKanyi/blob/master/Digital__Design_110-512.png" width="100"/>
 
-Hi there 👋 I'm Geoffrey Matieso, a Mobile Applications Developer based in Eldoret, Kenya.
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+I'm Geoffrey Matieso, a Mobile Applications Developer based in Eldoret, Kenya.
 
+<p>To talk more you can dm me on twitter <a href=https://twitter.com/Gmatieso>@Gmatieso</a> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>Geoffrey Matieso</a></p>
+
+## 🔧Languages and tools
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Proteus-informational?style=flat&logo=proteus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Autodesk-informational?style=flat&logo=Autodesk&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kicad-informational?style=flat&logo=KiCadEDA&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=IntellijIDEA&logoColor=white&color=2bbc8a)
 <br>
 
 <center>
