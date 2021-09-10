@@ -2,21 +2,18 @@
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/Gmatieso/Gmatieso/Gmatieso/wave.gif" width="30px">
 
 My name is Geoffrey Matieso and i am a Software Developer. I'm from Kenya, living in Eldoret and currently working as Campus Ambassador @MoringaSchool. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, You can find me swimming 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MicroChip-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MicroChip-ATmega32-informational?style=flat&logo=AT&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Proteus-informational?style=flat&logo=proteus&logoColor=white&color=2bbc8a)
