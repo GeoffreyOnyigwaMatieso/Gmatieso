@@ -1,7 +1,7 @@
 <img src="https://github.com/JoelKanyi/JoelKanyi/blob/master/Digital__Design_110-512.png" width="100"/>
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified Technical IT / Automation support based in  UasinGishu Eldoret, Kenya.
+I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified System Automation and IT support based in  UasinGishu Eldoret, Kenya.
 
 <p>Connect with me via twitter <a href=https://twitter.com/Gmatieso>@Gmatieso</a> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>GeoffreyMatieso</a></p>
 
