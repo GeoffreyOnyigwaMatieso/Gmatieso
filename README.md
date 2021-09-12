@@ -12,8 +12,13 @@ I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified Syst
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=IntellijIDEA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
-
+### 🗄️ Databases and cloud hosting
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+</p>
 <br>
 ## &#x1f4c8; GitHub Stats
 <center>
@@ -28,6 +33,10 @@ I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified Syst
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
 <!-- GITHUB ACTIVITY GRAPH -->
 ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gmatieso&theme=react-dark)
+<!-- GITHUB STREAK -->
+## 🔥 Streak stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gmatieso)](https://git.io/streak-stats)
+
 
 
 
