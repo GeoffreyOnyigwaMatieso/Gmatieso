@@ -4,8 +4,6 @@
 I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified System Automation and IT support based in  UasinGishu Eldoret, Kenya.
 
 <p>Connect with me via twitter <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>GeoffreyMatieso</a></p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gmatieso&label=Profile%20views&color=0e75b6&style=flat" alt="Gmatieso" /> </p>
 
 ## 🔧Languages and tools
