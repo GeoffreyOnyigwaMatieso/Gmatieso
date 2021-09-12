@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)]
+[![Social banner for jh3y](https://github.com/Gmatieso/Gmatieso/raw/master/assets/header-banner--optimized.svg)]
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 Tech_G Here
