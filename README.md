@@ -1,5 +1,5 @@
 <img src="https://github.com/JoelKanyi/JoelKanyi/blob/master/Digital__Design_110-512.png" width="100"/>
-
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified System Automation and IT support based in  UasinGishu Eldoret, Kenya.
 
@@ -11,6 +11,7 @@ I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified Syst
 ![](https://img.shields.io/badge/Tools-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=IntellijIDEA&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 
 <br>
