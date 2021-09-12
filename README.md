@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/Gmatieso/Gmatieso/master/readme_header.png "Header")](https://martinheinz.dev/)
-
 <img src="https://github.com/JoelKanyi/JoelKanyi/blob/master/Digital__Design_110-512.png" width="100"/>
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified System Automation and IT support based in  UasinGishu Eldoret, Kenya.
