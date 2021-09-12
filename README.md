@@ -1,3 +1,11 @@
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Jhey.
+</p>
+<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 <img src="https://github.com/JoelKanyi/JoelKanyi/blob/master/Digital__Design_110-512.png" width="100"/>
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified System Automation and IT support based in  UasinGishu Eldoret, Kenya.
