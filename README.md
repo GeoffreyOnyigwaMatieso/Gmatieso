@@ -1,7 +1,7 @@
 
 <img align="left" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-I'm Geoffrey Matieso, a Mobile Applications Developer  and Google Certified System Automation and IT support based in  UasinGishu Eldoret, Kenya.
+I'm Geoffrey Matieso, an Android Applications Developer  and Google Certified System Automation and IT support based in  UasinGishu Eldoret, Kenya.
 
 <p>Connect with me via twitter <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>GeoffreyMatieso</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gmatieso&label=Profile%20views&color=0e75b6&style=flat" alt="Gmatieso" /> </p>
