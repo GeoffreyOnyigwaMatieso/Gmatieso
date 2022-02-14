@@ -5,7 +5,7 @@ I'm Geoffrey Matieso, an Android Applications Developer  and Google Certified Sy
 
 <p>Connect with me via twitter <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>GeoffreyMatieso</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gmatieso&label=Profile%20views&color=0e75b6&style=flat" alt="Gmatieso" /> </p>
-⚡ Fun Fact: When am not coding you'll find me  reading developers blog post and Quora articles
+⚡ Fun Fact: When am not coding you'll find me  reading developers blog post,Quora articles and programming memes
 
 ## 🔧Languages and tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
