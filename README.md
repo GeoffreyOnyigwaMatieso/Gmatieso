@@ -1,12 +1,13 @@
 
 <img align="left" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
-# Hi there  
+# Hi there 
+<img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 Geoffrey Matieso, is a Modern Android  Developer whose tasked at building Excellent apps across devices. In this repo you'll get a peek into the world of my very own and other collaborative project/repo.. from Team android our very own "Android Avengers", and tools we have used to help developers heed the call, to restore order and stability to apps across the androidverse.
 
 
 <p>Connect with me via twitter <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>GeoffreyMatieso</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gmatieso&label=Profile%20views&color=0e75b6&style=flat" alt="Gmatieso" /> </p>
-⚡ Fun Fact: When am not coding you'll find me  reading developers blog post,Quora articles and programming memes
+⚡ Fun Fact: When am not coding you'll find me  reading developers blog post,Quora articles and programming memes also a drone lover (Secretly, don’t tell the wife)
 
 ## 🔧Languages and tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
