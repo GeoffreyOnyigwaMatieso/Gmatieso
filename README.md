@@ -1,6 +1,6 @@
 
 <img align="left" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hi there  
 Geoffrey Matieso, is a Modern Android  Developer whose tasked at building Excellent apps across devices. In this repo you'll get a peek into the world of my very own and other collaborative project/repo.. from Team android our very own "Android Avengers", and tools we have used to help developers heed the call, to restore order and stability to apps across the androidverse.
 
 
