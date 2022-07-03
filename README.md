@@ -43,6 +43,8 @@ Geoffrey Matieso, is a Modern Android  Developer whose tasked at building Excell
 ## 🔥 Streak stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gmatieso)](https://git.io/streak-stats)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qx7815ce350k22x1y1dskujez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
