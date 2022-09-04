@@ -1,7 +1,7 @@
 
 <img align="left" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
 # Hi there 
-Even Death Am the Hero [E.D.I.T.H]
+
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 Geoffrey Matieso, is a Modern Android  Developer whose tasked at building Excellent apps across devices. In this repo you'll get a peek into the world of my very own and other collaborative project/repo.. from Team android our very own "Android Avengers", and tools we have used to help developers heed the call, to restore order and stability to apps across the androidverse.
 
