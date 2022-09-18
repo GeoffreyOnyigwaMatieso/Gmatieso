@@ -1,5 +1,8 @@
 
 <img align="left" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
 # Hi there 
 
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
@@ -44,6 +47,10 @@ Geoffrey Matieso, is a Modern Android  Developer whose tasked at building Excell
 <!-- GITHUB STREAK -->
 ## 🔥 Streak stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gmatieso)](https://git.io/streak-stats)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qx7815ce350k22x1y1dskujez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
