@@ -6,7 +6,7 @@
 # Hi there 
 
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
-Geoffrey Matieso, is a Professional Developer  whose tasked at building Excellent apps across devices. In this repo you'll get a peek into the world of my very own and other collaborative project/repo.. from Team android and Team Web  our very own " Avengers", and tools we have used to help developers heed the call, to restore order and stability to apps across the Technoverse.
+Geoffrey Matieso, is a Professional Developer  whose tasked at building Excellent apps across devices. In this repo you'll get a peek into the world of my very own and other collaborative project/repo.. from Team Android To Team Web  our very own " Avengers", and tools we have used to help developers heed the call, to restore order and stability to apps across the Technoverse.
 
 
 <p>Connect with me via twitter <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>GeoffreyMatieso</a></p>
