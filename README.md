@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
-# Hi there 
+## Hi there 
 
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 Geoffrey Matieso, is a Professional Developer  whose tasked at building Excellent apps across devices. In this repo you'll get a peek into the world of my very own and other collaborative project/repo.. from Team Android To Team Web  our very own " Avengers", and tools we have used to help developers heed the call, to restore order and stability to apps across the Technoverse.
