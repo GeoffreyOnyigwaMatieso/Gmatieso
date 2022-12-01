@@ -4,12 +4,12 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 Hi there 
-<br>
+
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
-Geoffrey Matieso, is a Professional Developer  whose tasked at building Excellent apps across devices. In this repo you'll get a peek into the world of my very own and other collaborative project/repo.. from Team Android To Team Web  our very own " Avengers", and tools we have used to help developers heed the call, to restore order and stability to apps across the Technoverse.<br/>
+Geoffrey Matieso, is a Professional Developer  whose tasked at building Excellent apps across devices. In this repo you'll get a peek into the world of my very own and other collaborative project/repo.. from Team Android To Team Web  our very own " Avengers", and tools we have used to help developers heed the call, to restore order and stability to apps across the Technoverse.
 
 
-Connect with me via twitter <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>GeoffreyMatieso</a></p>
+<br>Connect with me via twitter<br/> <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>GeoffreyMatieso</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gmatieso&label=Profile%20views&color=0e75b6&style=flat" alt="Gmatieso" /> </p>
 ⚡ Fun Fact: When am not coding you'll find me  reading developers blog post,Quora articles and programming memes also a drone lover (Secretly, don’t tell the wife)
 
