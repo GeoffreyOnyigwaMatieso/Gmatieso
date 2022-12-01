@@ -80,10 +80,10 @@ Geoffrey Matieso, is a Professional Developer  whose tasked at building Excellen
 </div>
 
 
-<div id="header" align="center">
+
   <b>What am Listening...</b>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qx7815ce350k22x1y1dskujez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
- </div>
+
 
 
 
