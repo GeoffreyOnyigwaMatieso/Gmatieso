@@ -12,8 +12,11 @@ Geoffrey, Here
 - 📫 I'm available to answer your android related questions on any platform.
 
 
-<br>Connect with me ?<br/> <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p><a href=https://www.linkedin.com/in/geoffreymatieso /><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gmatieso&label=Profile%20views&color=0e75b6&style=flat" alt="Gmatieso" /> </p>
+<br>Connect with me ?<br/> <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p><a href=https://www.linkedin.com/in/geoffreymatieso /><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://medium.com/@matiesogeoffrey"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gmatieso&label=Profile%20views&color=0e75b6&style=flat" alt="Gmatieso" />
+</p>
 
 
 ## My Skill Set  
