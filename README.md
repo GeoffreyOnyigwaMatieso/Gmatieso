@@ -6,18 +6,18 @@
 Hi there 
 
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
-Geoffrey Matieso, is a Professional Developer  whose tasked at building Excellent apps across devices. In this repo you'll get a peek into the world of my very own and other collaborative project/repo.. from Team Android To Team Web  our very own " Avengers", and tools we have used to help developers heed the call, to restore order and stability to apps across the Technoverse.
+
+- 👨🏾‍💻 Currently working on Kotlin and Ruby & Rails projects.
+- ✌🏾 Looking forward to collaborating with other Android developers or Ruby group projects.
+- 📫 I'm available to answer your android related questions on any platform.
 
 
-<br>Connect with me via twitter<br/> <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p> or linkedIn <a href=https://www.linkedin.com/in/geoffreymatieso/>GeoffreyMatieso</a></p>
+<br>Connect with me ?<br/> <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p><a href=https://www.linkedin.com/in/geoffreymatieso /><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gmatieso&label=Profile%20views&color=0e75b6&style=flat" alt="Gmatieso" /> </p>
-⚡ Fun Fact: When am not coding you'll find me  reading developers blog post,Quora articles and programming memes also a drone lover (Secretly, don’t tell the wife)
+⚡ Fun Fact: When am not coding you'll find me  reading developers blog post,Quora articles and programming memes also a drone lover (Secretly, don’t tell wife)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-  
-  
-  
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
@@ -68,9 +68,7 @@ Geoffrey Matieso, is a Professional Developer  whose tasked at building Excellen
   </table>
 </center>
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
-<!-- GITHUB ACTIVITY GRAPH -->
-![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gmatieso&theme=react-dark)
+
 <!-- GITHUB STREAK -->
 ## 🔥 Streak stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gmatieso)](https://git.io/streak-stats)
