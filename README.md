@@ -7,8 +7,8 @@ Geoffrey, Here
 
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
-- 👨🏾‍💻 Currently working on Java & Kotlin projects.
-- ✌🏾 Looking forward to collaborating with other Android developers or Java Backend projects.
+- 👨🏾‍💻 Currently working on Java, SpringBoot & Kotlin projects.
+- ✌🏾 Looking forward to collaborating with other Android developers or Java(Spring Boot) Backend projects.
 - 📫 I'm available to answer your android related questions on any platform.
 
 
