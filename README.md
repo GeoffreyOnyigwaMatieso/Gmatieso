@@ -27,7 +27,7 @@ Geoffrey, Here
   
 ### FrontEnd  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
 <a href="https://www.android.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a> 
 <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp; 
 <img src="https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=blue">
@@ -51,7 +51,6 @@ Geoffrey, Here
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://redis.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="git" width="40" height="40"/> </a>
 </div>
@@ -59,7 +58,7 @@ Geoffrey, Here
 </td></tr></table>  
 
 <br/>  
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 <center>
   <table>
     <tr>
@@ -71,7 +70,7 @@ Geoffrey, Here
 
 
 <!-- GITHUB STREAK -->
-## 🔥 Streak stats
+### 🔥 Streak stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gmatieso)](https://git.io/streak-stats)
 
 <div id="header" align="center">
