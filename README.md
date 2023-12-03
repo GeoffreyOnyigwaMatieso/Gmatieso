@@ -80,6 +80,8 @@ Geoffrey, Here
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gmatieso&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/gmatieso/langs)](https://githubtrends.io)
+
  ## What am Listening...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qx7815ce350k22x1y1dskujez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
