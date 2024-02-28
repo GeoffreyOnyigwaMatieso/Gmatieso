@@ -81,6 +81,7 @@ Geoffrey, Here
 ![](https://github-contributor-stats.vercel.app/api?username=Gmatieso&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![Gmatieso's GitHub | Languages Over Time](https://stats.quine.sh/Gmatieso/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gmatieso)
+[![Gmatieso's GitHub | Topics Over Time](https://stats.quine.sh/Gmatieso/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gmatieso)
  ## What am Listening...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qx7815ce350k22x1y1dskujez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
