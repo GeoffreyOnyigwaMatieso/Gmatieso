@@ -7,7 +7,7 @@ Geoffrey, Here
 
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
-- 👨🏾‍💻 Currently working on Next.js,TypeScript,React,Pythona & Flask projects.
+- 👨🏾‍💻 Currently working on Next.js,TypeScript,React, Python & Flask projects.
 - ✌🏾 Looking forward to collaborate with other FrontEnd Devs(Next.Js) & Backend projects.
 - 📫 I'm available to answer your tech related questions on any platform.
 
