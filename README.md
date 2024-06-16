@@ -7,9 +7,9 @@ Geoffrey, Here
 
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
-- 👨🏾‍💻 Currently working on Java,SpringBoot,React, Angular & Kotlin projects.
-- ✌🏾 Looking forward to collaborate with other Android developers or Java(Spring Boot) Backend projects.
-- 📫 I'm available to answer your android related questions on any platform.
+- 👨🏾‍💻 Currently working on Next.js,TypeScript,React,Pythona & Flask projects.
+- ✌🏾 Looking forward to collaborate with other FrontEnd Devs(Next.Js) & Backend projects.
+- 📫 I'm available to answer your tech related questions on any platform.
 
 
 <br>Connect with me ?<br/> <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p><a href=https://www.linkedin.com/in/geoffreymatieso /><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
